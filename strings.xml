@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Congratulations On Becoming President</string>
+    <string name="textView1">Congratulations</string>
+    <string name="textView2">on</string>
+    <string name="textView3">becoming</string>
+    <string name="textView4">President</string>
+</resources>
